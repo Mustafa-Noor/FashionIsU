@@ -31,23 +31,23 @@ The **FashionIsU Clothing Store System** is a multi-user platform developed usin
 
 ### Welcome Screen
 
-![Welcome Screen](Images/welcome.jpg)
+![Welcome Screen](Images/main.png)
 
 ### Admin Panel
 
-![Admin Panel](Images/admin.jpg)
+![Admin Panel](Images/admin.png)
 
 ### Employee Panel
 
-![Employee Panel](Images/employee.jpg)
+![Employee Panel](Images/employee.png)
 
 ### Customer Panel
 
-![Customer Panel](Images/customer.jpg)
+![Customer Panel](Images/customer.png)
 
 ### Class Diagram
 
-![Class Diagram](Images/class.jpg)
+![Class Diagram](Images/class.png)
 
 ## Usage
 
